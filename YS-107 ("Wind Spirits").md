@@ -13,7 +13,7 @@
 * Weather warnings to be issued regarding wind conditions in areas where spirits are gathering in groups of 8 or more
 * Visitors to be reminded that photographs do not hold images of Wind Spirits, and to stop requesting refunds when *we* haven't charged anyone for having their photos taken with them[^1]
 
-### **Irregularity Description**
+## **Irregularity Description**
 
 The Wind Spirits are a type of Fae creature that resides in the park. They are, as yet, uncounted as they are capricious and hard to distinguish at smaller sizes, but larger instances have personalities of their own and distinguishable characteristics.
 
