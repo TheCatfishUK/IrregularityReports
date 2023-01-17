@@ -1,2 +1,2 @@
-# IrregularityReports
-A collection of my Irregularity reports for the Yellowstone Parkpark Service
+# Irregularity Reports
+A collection of Irregularity reports for the Yellowstone Parkpark Service
