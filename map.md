@@ -1,26 +1,62 @@
+## DUCK LAKE
+
 ```geojson
 {
   "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "id": 1,
       "properties": {
-        "ID": 0
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#bf0043",
+        "fill-opacity": 0.3
       },
       "geometry": {
-        "type": "Polygon",
         "coordinates": [
           [
-              [-111.1, 44.1],
-              [-111.1, 45],
-              [-110, 45],
-              [-110, 44.1],
-              [-111.1, 44.1]
+            [
+              -111.09731,
+              44.1338
+            ],
+            [
+              -111.09731,
+              45.0287
+            ],
+            [
+              -110.00728,
+              45.0287
+            ],
+            [
+              -110.00728,
+              44.1338
+            ],
+            [
+              -111.09731,
+              44.1338
+            ]
           ]
-        ]
+        ],
+        "type": "Polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "coordinates": [
+          -110.57975,
+          44.42087
+        ],
+        "type": "Point"
       }
     }
   ]
 }
 ```
+
+### AT PRESENT, AVOID DUCK LAKE. FURTHER INFORMATION INCOMING
